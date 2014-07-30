@@ -5,7 +5,7 @@ This is my resume written in markdown format using [markdown-resume-js](https://
 
 ##Setup
 * npm install
-* replace 'node_modules/markdown-resume/assets/css'  with resume.css
+* copy resume.css into node_modules/markdown-resume/assets/css and replace the original resume.css
 
 ##Generate
 * PDF run "node node_modules/markdown-resume/bin/md2resume --pdf resume.md"
