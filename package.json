@@ -1,0 +1,8 @@
+{
+	"name": "resume",
+	"version": "1.0.0",
+	"description": "This is a resume written in markdown.",
+	"dependencies": {
+		"markdown-resume": "~0.1.0"
+	}
+}
